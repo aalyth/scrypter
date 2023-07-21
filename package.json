@@ -1,0 +1,12 @@
+{
+	"name": "scrypter",
+	"version": "1.0.0",
+	"description": "",
+	"scripts": {
+		"build": "tsc",
+		"start": "node out/*.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "D. Nikolov & V. Novakov",
+	"license": "GPL-3.0"
+}
